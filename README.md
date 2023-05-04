@@ -1,7 +1,9 @@
+
+
+
 <p align="center">
-https://www.youtube.com/@astridlol
-
-
+https://www.youtube.com/@astridlol<br>
+<img src="https://gitpfp.wav.blue/pfp?mag=1&name=Astrid&colour=bfghdk">
   <br><b>Astrid</b>McLovin<br><br>
   Tech I use: <br>
   <a href="https://skillicons.dev">
