@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=raspberrypi,py,swift,svg,stackoverflow,ps,azure" />
   </a>
+  
   Software I use: <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=twitter,instagram,discord,github,git,vscode" />
