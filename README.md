@@ -12,7 +12,7 @@
   </a><br>
   <b>My PC Specs!</b><br>
   <a href="https://valid.x86.fr/x6u80t">
-  <img src="https://valid.x86.fr/cache/banner/x6u80t-6.png">
+  <img src="https://astridwashere.lol/WaviestBalloon_files/pcspecs.png">
   </a>
  
 </p>
