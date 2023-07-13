@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://gitpfp.wav.blue/pfp?mag=1&name=Astrid&colour=bfghdk">
   <br><b>Astrid</b>WasHereLOL<br>
-  @pestastrid on Discord<br>
+  @retar3 on Discord<br>
   <b>I am content creator trying to learn programig</b><br><br>
   Stuff I use: <br>
   <a href="https://skillicons.dev">
