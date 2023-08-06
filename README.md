@@ -8,7 +8,7 @@
   <b>I am content creator trying to learn programig</b><br><br>
   Stuff I use: <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,py,svg,stackoverflow,twitter,instagram,discord,github,git,vscode,blender,ps&perline=6" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,py,linux,stackoverflow,pr,html,discord,fediverse,git,vscode,blender,unity&perline=6" />
   </a><br>
   <b>My PC Specs!</b><br>
   <a href="https://valid.x86.fr/x6u80t">
