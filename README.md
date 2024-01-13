@@ -10,8 +10,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=raspberrypi,py,linux,androidstudio,pr,html,discord,fediverse,git,vscode,blender,unity&perline=6" />
   </a><br><br>
-  <b>My PC Specs! (OUTDATED)</b><br>
-  <a href="https://valid.x86.fr/51e38l">
+  <b>My PC Specs! (UPDATED!)</b><br>
+  <a href="https://valid.x86.fr/kdp46n">
   <img src="https://astridwashere.lol/feelays/pcspecs.png">
   </a><br>
   <a href="https://www.intel.com/content/www/us/en/products/sku/134595/intel-core-i712700kf-processor-25m-cache-up-to-5-00-ghz/specifications.html">
