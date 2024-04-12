@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=raspberrypi,py,linux,androidstudio,pr,html,discord,fediverse,git,vscode,blender,unity&perline=6" />
   </a><br><br>
   <b>My PC Specs! (UPDATED!)</b><br>
-  <a href="https://valid.x86.fr/kdp46n">
+  <a href="https://valid.x86.fr/1b7vz6">
   <img src="https://astridwashere.lol/feelays/pcspecs.png">
   </a>
 </p>
