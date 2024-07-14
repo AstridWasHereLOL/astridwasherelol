@@ -3,8 +3,8 @@
 
 <p align="center">
 <img src="https://gitpfp.wav.blue/pfp?mag=1&name=Astrid&colour=bfghdk">
-  <br><b>Cherry</b><br>
-  @d3xtr4.online on Discord<br>
+  <br><b>Clique</b><br>
+  @clique.0nline on Discord<br>
   <b>I am content creator trying to learn programig</b><br><br>
   <b>Stuff I use:</b><br>
   <a href="https://skillicons.dev">
